@@ -8,12 +8,12 @@ joblib
 matplotlib
 numpy
 opencv-python==3.4.9.31
-opendr
+#opendr
 OpenEXR
 pandas 
 pathlib
 Pillow 
-pyembree
+#pyembree
 PyEXR
 PyOpenGL
 pyparsing
